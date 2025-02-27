@@ -2,6 +2,9 @@
 
 An intelligent document search and chat application that supports both text and voice interactions, built with Streamlit and LangChain.
 
+![image](https://github.com/user-attachments/assets/aea8e1ce-ed18-4fb0-825a-03b944ef7dd7)
+
+
 ## 🌟 Features
 
 - **Multi-Modal Input**: Support for both text and voice input
