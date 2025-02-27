@@ -23,7 +23,7 @@ An intelligent document search and chat application that supports both text and 
 
 ## 📋 Prerequisites
 
-- Python 3.8+
+- Python 3.11+
 - PostgreSQL database
 - Azure OpenAI API access
 - Ollama server running
@@ -32,8 +32,7 @@ An intelligent document search and chat application that supports both text and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/embedser.git
-cd embedser
+git clone https://github.com/AadilGani/Text-and-Speech-ChatBot.git
 ```
 
 2. Create a virtual environment:
