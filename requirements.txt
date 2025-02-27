@@ -1,0 +1,15 @@
+streamlit
+langchain-postgres
+langchain-community
+langchain-core
+langchain-openai
+sqlalchemy
+numpy
+scikit-learn
+plotly
+python-soundfile
+audio-recorder-streamlit
+sounddevice
+requests
+psycopg2-binary
+python-dotenv
